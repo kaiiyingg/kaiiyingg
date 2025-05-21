@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey, I'm Kai Ying!
 
-<!--
-**kaiiyingg/kaiiyingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** who learns by building — whether it's a side project, a new tool, or diving into a topic just because it's cool.  
+I’m curious, hands-on, and always exploring.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Currently Exploring
+Right now, I’m still figuring out where I fit in tech, but **cybersecurity** has been catching my attention.  
+During school breaks, I’m focused on sharpening my skills in:
+- 🌐 Web Development  
+- 🗃️ SQL  
+- 🛡️ Foundations of Security
+
+---
+
+### 💡 What I’m Into
+- 🧠 Learning new tech through projects  
+- 💻 Collaborating or hacking solo  
+- 🚀 Hackathons and real-world challenges  
+- 🔍 Exploring internships to grow and apply what I learn
+
+---
+
+Still early in the journey, but always **building**, **learning**, and staying **curious**.
+
+---
+
+### 📫 Let’s Connect!
+- 📧 Email: [chongkaiying578@gmail.com](mailto:chongkaiying578@gmail.com)  
+- 📱 Phone: +65 8917 2864  
+- 💼 LinkedIn: [linkedin.com/in/kai-ying-907bb6178](https://linkedin.com/in/kai-ying-907bb6178)
