@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kai Ying!
 [![Gmail Badge](https://img.shields.io/badge/-chongkaiying578@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chongkaiying578@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-kai ying-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kai-ying-907bb6178)
+[![LinkedIn Badge](https://img.shields.io/badge/-ChongKaiYing--blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kai-ying-907bb6178)
 [![GitHub Badge](https://img.shields.io/badge/-kaiiyingg-black?style=flat&logo=github&logoColor=white)](https://github.com/kaiiyingg)
 
 
