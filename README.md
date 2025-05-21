@@ -9,7 +9,7 @@ I’m curious, hands-on, and always exploring.
 ---
 
 ### 🔍 Currently Exploring
-Right now, I’m still figuring out where I fit in tech, but **cybersecurity** has been catching my attention.  
+Right now, I’m still figuring out where I fit in tech, but **cybersecurity** and **AI** has been catching my attention.  
 During school breaks, I’m focused on sharpening my skills in:
 - 🌐 Web Development  
 - 🗃️ SQL  
